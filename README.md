@@ -19,4 +19,7 @@ Real-Time Voice Activity Detection: Never sends continuous background noise to t
 
 Auto-Muting: System state management ignores microphone input while the AI is speaking to prevent echo-loops.
 
+
 Modular Design: Clean separation of hardware processing, API connections, and the main loop.
+
+! Implemented a functionality to use 'Goodbye' voice input to shutdown the voice agent.
