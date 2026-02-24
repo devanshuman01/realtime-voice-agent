@@ -1,0 +1,11 @@
+torch
+torchaudio
+numpy
+sounddevice
+python-dotenv
+deepgram-sdk
+groq
+edge-tts
+scipy
+soundfile
+packaging
