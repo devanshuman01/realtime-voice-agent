@@ -1,4 +1,5 @@
 Real-Time Conversational AI Voice Agent 🎙️🤖
+
 An ultra-low latency, voice-to-voice AI assistant built in Python. This system features local voice activity detection (VAD), cloud-based speech-to-text, LLM processing, and text-to-speech generation.
 
 Built to minimize conversational delays and mimic natural human interaction.
@@ -23,3 +24,4 @@ Auto-Muting: System state management ignores microphone input while the AI is sp
 Modular Design: Clean separation of hardware processing, API connections, and the main loop.
 
 ! Implemented a functionality to use 'Goodbye' voice input to shutdown the voice agent.
+
